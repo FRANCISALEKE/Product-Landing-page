@@ -13,4 +13,7 @@
     body {
       background-color: blue;
     }
+    .flex-container {
+    display: flex;
+    flex-direction: column;
   }
